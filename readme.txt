@@ -11,7 +11,9 @@ Submit your wordpress posts straight to Matepress
 == Description ==
 
 Matepress for Wordpress allows your to send your Wordpress posts to your Matepress website.
-This might be handy so you do not have to to come to your matepress website. 
+This might be handy so you do not have to to come to your matepress website. This plugin
+requires you to have an account on (www.matepress.com) so if you dont have one yet 
+go get one now.
  
 **Plugin Summary:**
 
