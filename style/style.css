@@ -1,0 +1,43 @@
+.setting-desc  { 
+	width: 330px;
+	float: left;
+	display: block;
+}
+.setting-form  { 
+	width: 276px;
+	float: left;
+	padding-top: 32px;
+}
+.setting-desc h2,
+  .setting-form h2 { 
+  color: ##367077; 
+  font-size:16px;
+  font-weight: bold;
+  width: 100%;
+  display: block;
+}
+.setting-desc p { width: 50%; }
+.wrap { font-family:"Lucida Grande",Georgia,Arial,sans-serif; font-size:11px; }
+.wrap h2 { font-weight: normal; }
+.setting-spacer { clear: both; margin-bottom: 38px; };
+input[type=text] { margin: 0px; padding: 0px; } 
+.toc {
+	height: 200px; 
+	width:  200px; 
+	float: right;
+} 
+
+.wp_manage_wrap {  font-family:Georgia,"Times New Roman",Times,serif; font-size:11px; margin:0 15px; max-width:980px; padding:0; font-size: 13px; color: #666666}
+.wp_manage_wrap h2 { color:#D54E21; font-size:16px; font-weight:bold; width:100%; border-bottom: 1px solid #DADADA;}
+.wp_manage_table { 
+
+
+}
+
+.wp_manage_table { 
+
+
+}
+
+.logo { padding-top: 12px; }
+.toc { padding-top: 12px; }

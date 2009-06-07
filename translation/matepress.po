@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Matepress for Wordpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-08 21:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Johnny Mast <info@webnation.nl>\n"
+"Language-Team: Matepress development <support@matepress.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress\n"
+"X-Poedit-SearchPath-0: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress\n"
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:35
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:63
+msgid "Posting options"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:36
+msgid "Category management"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:43
+msgid "Login Info"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:45
+msgid "In order to connect to Matepress you will need to provide your Matepress login information."
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:47
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:155
+msgid "Save Settings"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:50
+msgid "Username"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:52
+msgid "Password"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:66
+msgid "Auto posts"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:68
+msgid "If disable the option the plugin will no longer automaticaly send your posts (this option is turned on by default)"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:74
+msgid "Automaticaly post new Posts to Matepress"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:84
+msgid "On"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:89
+msgid "Off"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:107
+msgid "Categories Management"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:108
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:115
+msgid "Exclude categories"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:110
+msgid "If you are creating new posts from rss feeds, or you just want to exclude any category from being posted to Matepress, please mark the related category checkbox(es). By not using this option, you could risk mass posting to Matepress."
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/html/settings.php:123
+msgid "You did not add any categories yet."
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/includes/matepress_menus.php:19
+msgid "Matepress Settings"
+msgstr ""
+
+#: /users/mastjohnny/Sites/mu/wp-content/plugins/matepress/includes/matepress_menus.php:24
+msgid "Matepress"
+msgstr ""
+
